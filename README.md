@@ -1,4 +1,4 @@
-# Project Name: Temitope-Oladepo---Baby-Step-in-DA
+# Project Name: Baby-Step-in-Data Analytics
 
 ----
 # Project Objective: Problem Statement
